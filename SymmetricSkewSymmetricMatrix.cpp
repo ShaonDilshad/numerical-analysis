@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+//Symmetric and Skew-Symmetric Matix
+
+#include<bits/stdc++.h>2
 using namespace std;
 
 int main()
@@ -17,10 +19,10 @@ int main()
     }
 
     cout<<"Print the entered matrix: "<<endl;
-     for(i=1; i<=m; i++){
+    for(i=1; i<=m; i++){
         for(j=1; j<=n;j++){
             cout<<'\t'<<a[i][j];//printf("\t%f",a[j][i]);
-       }
+        }
         cout<<"\n\n"; //printf("\n\n");
     }
 
@@ -43,7 +45,7 @@ int main()
 
     //Skew-Symmetric Matrix
     cout<<"Skew-Symmetric matrix are: "<<endl;
-     for(i=1; i<=m; i++){
+    for(i=1; i<=m; i++){
         for(j=1; j<=n; j++){
             cout<<'\t'<<c[i][j]; //printf("\t%f",c[i][j]);
         }
