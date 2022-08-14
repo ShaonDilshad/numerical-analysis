@@ -1,3 +1,4 @@
+//Linear Searching
 #include<bits/stdc++.h>
 using namespace std;
 

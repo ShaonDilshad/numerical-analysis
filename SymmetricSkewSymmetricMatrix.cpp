@@ -1,5 +1,4 @@
 //Symmetric and Skew-Symmetric Matix
-
 #include<bits/stdc++.h>2
 using namespace std;
 
