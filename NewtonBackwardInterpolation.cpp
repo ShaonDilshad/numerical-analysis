@@ -56,6 +56,7 @@ int fact(int n)
         prod = prod * i;
     return(prod);
 }
+
 float f(int n,float u)
 {
     int i;

@@ -1,4 +1,4 @@
-//Newton Fprward Interpolation
+//Newton Forward Interpolation
 #include<bits/stdc++.h>
 using namespace std;
 #define N 50
@@ -53,6 +53,7 @@ int fact(int n)
         prod = prod * i;
     return(prod);
 }
+
 float f(int n,float u)
 {
     int i;
