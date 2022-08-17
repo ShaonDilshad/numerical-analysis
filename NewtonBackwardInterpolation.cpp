@@ -1,4 +1,4 @@
-//Newton Forward Interpolation
+//Newton Backward Interpolation
 #include<bits/stdc++.h>
 using namespace std;
 #define N 50
@@ -30,7 +30,7 @@ main()
     cout<<"enter the interpolate point a= ";
     cin>>a;
 
-    u = (a - x[n-1])/h;
+    u = (a - x[n-1]) / h;
 
     for(i=1; i<n; i++)
     {

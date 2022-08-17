@@ -1,4 +1,4 @@
-//Newton Backward Interpolation
+//Newton Fprward Interpolation
 #include<bits/stdc++.h>
 using namespace std;
 #define N 50
