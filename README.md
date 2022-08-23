@@ -1,2 +1,2 @@
-# numerical-analysis
-Lab programming course in my university.
+# Numerical Analysis
+> Numerical Analysis with C/C++ program
